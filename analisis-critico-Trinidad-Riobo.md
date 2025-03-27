@@ -1,0 +1,6 @@
+## Trinidad Riobó
+Para mí es importante realizar este tema porque refleja la opinión de la ciudadanía. Me parece que hacer reportajes que visibilicen la opinión de los chilenos siempre va a ser enriquecedor y transparente para el periodismo. Más aún, si esa opinión tiene que ver con emisiones de la televisión nacional.  
+
+Espero revelar que la ciudadanía sí se preocupa porque la televisión esté acorde a la ética y moralidad que corresponde y que toma acción cuando esto no se cumple. Espero que este trabajo genere conciencia sobre qué tipos de programas les estamos entregando a los chilenos y si es necesario cambiar nuestra manera de entretener y educar. Para graficar esto, usaremos ejemplos como lo sucedido con Emilia Dides durante el Festival de Viña. Me gustaría incluir gráficos didácticos con información relevante y muchas cifras que respalden nuestra hipótesis.   
+
+Me gustaría aprender más sobre cómo analizar una audiencia y entender más acerca de bases de datos, que, aunque sea poco enseñado a nuestra profesión, es fundamental para su buen ejercicio. Con bases de datos los periodistas podemos realizar investigaciones mucho más relevantes, completas y que pueden generar repercusiones.  
