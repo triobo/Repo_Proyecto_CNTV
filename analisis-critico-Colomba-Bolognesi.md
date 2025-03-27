@@ -1,0 +1,6 @@
+# Colomba Bolognesi
+Es relevante realizar este tema para mí porque al estudiar periodismo me parece que es fundamental interiorizar qué es lo que no debo hacer si algún día quiero trabajar en producción o edición de un canal, cuáles son las denuncias que más se repiten para no cometerlas en el futuro.  Espero contar cuales son las mayores denuncias ente el Consejo Nacional de Televisión, y espero poder generar conciencia en los canales, que son responsables de educar a la gente y entretener. Creo que hoy en día muchas veces los rostros de canales se dan la libertad de emitir juicios sobre otras personas o situaciones sin medir las consecuencias de cuanto afectará al resto, y eso se puede ver en estas denuncias. 
+
+Me gustaría agrupar las denuncias según su índole, rango etario, para ilustrar que muchas veces son los programas de farándula los que más pasan a llevar la ética y moral de las personas.  
+
+Me gustaría aprender a manejar grandes bases de datos, para contar historias relevantes y que puedan generar algún tipo de cambio. 
