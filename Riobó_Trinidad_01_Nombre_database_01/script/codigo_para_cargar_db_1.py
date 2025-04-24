@@ -1,1 +1,0 @@
-# Script de carga de base 1
