@@ -32,3 +32,5 @@ Finalmente, la variable Temática Principal resume el tipo de contenido o proble
 •	Puede ampliarse en el futuro para incluir más variables (ej. nivel educativo, región, motivo jurídico de la denuncia).
 
 
+
+
