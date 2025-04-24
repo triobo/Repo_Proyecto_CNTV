@@ -1,139 +1,27 @@
-# Análisis de Denuncias al CNTV
+## Hipótesis actual 
 
-## Síntesis del Proyecto
-Nuestro proyecto se centrará en analizar las denuncias realizadas por los chilenos al Consejo Nacional de Televisión (CNTV) con respecto al contenido televisivo de los últimos tres años, principalmente comparando que tan usada es esta plataforma dependiendo del grupo etario y qué tipo de contenido genera mayores denuncias.  
+La mayoría de las denuncias al Consejo Nacional de Televisión (CNTV) son realizadas por personas entre 50 y 70 años cuando sienten que el contenido televisivo atenta contra su moral personal o afecta a figuras públicas queridas o respetadas. 
 
-Nuestra hipótesis central de la investigación plantea que las personas de entre 50-70 años son más propensas a realizar denuncias cuando consideran que el contenido emitido atenta contra su moral personal o atenta contra figuras públicas apreciadas por ellos.  
+## Preguntas de investigación actuales 
 
-Creemos que el mencionado rango etario, además de consumir más televisión, generalmente muestra una mayor preocupación por los contenidos que no se adecuan a sus valores, y comparan constantemente la televisión de ahora con la antigua, lo que los hace tener un mayor rechazo a los nuevos programas.  
+¿Qué tipo de contenido genera más denuncias ante el CNTV? 
 
-A través de esta investigación, se espera confirmar la hipótesis que planteamos y, en el caso de que se cumpla, explorar las razones detrás de las denuncias de esta población mayor, o la falta de denuncias de las generaciones más jóvenes.   
+¿Cuál es el perfil etario de quienes más denuncian? 
 
-### Hipótesis
-*La mayor cantidad de denuncias en el Consejo Nacional de Televisión son realizadas cuando se pasan a llevar a figuras públicas que son queridas o respetadas por los chilenos.*
+¿Qué figuras públicas o temas son los más sensibles para la audiencia? 
 
-#### ¿Qué se quiere demostrar o revelar? 
+¿Qué programas o canales concentran mayor cantidad de denuncias? 
 
-Las personas generan denuncias cuándo sienten que el contenido o dichos en televisión atentan contra su moral personal. También estas ocurren cuando hay personajes públicos involucrados que son muy queridos o respetados.
+¿Qué grado de visibilidad mediática (en prensa o redes sociales) tienen las denuncias que más se repiten? 
 
-## 📊 Antecedentes del Tema
-Hemos recopilado datos de denuncias recientes en el CNTV:
+## Avance de su proyecto en relación con la hipótesis y preguntas de investigación 
 
-- 6 de noviembre 2024: Televidentes denuncian que “Johnny Herrera realiza comentarios ofensivos y se burla de las personas con discapacidad, específicamente de Bastián Paz, quien sufre de Síndrome Cerebeloso, en el contexto de hacer comparaciones entre una persona en estado de ebriedad (Arturo Vidal) y el modo de hablar de Bastián Paz. Una conducta que falta el respeto y es discriminatoria”. 
+A partir de las bases de datos del CNTV y su historial de sanciones, queremos lograr identificar algunos patrones de contenido que generan mayor cantidad de denuncias parte de una audiencia más conservadora o de mayor edad. Además, queremos comprobar si es que algunos temas recurrentes, como las rutinas de humor político, suelen generar más denuncias. Esto nos permitirá reforzar nuestra hipótesis inicial y nos ha permitido perfilar mejor el tipo de contenido más conflictivo. Sin embargo, todavía nos falta incorporar la dimensión etaria.  
 
- 
-
-- 26 de febrero 2025: Televidentes denuncian que “en rutina de humor, Edo Caroe dijo: ‘Tuvimos un gobierno de Bachelet, después uno de Piñera, después otro de Bachelet y otro de Piñera. Creo que ahora va a pasar lo mismo, va a salir Bachelet y después Piñera Robot. Esta vez a prueba de agua’. Es un chiste violento que vulnera la memoria el expresidente Sebastián Piñera y el dolor de su familia”. 
-
-> Programa: Festival de Viña del Mar 
-
-> Canal: Mega 
-
-> 1604 denuncias y 1555 tramitadas. (Canal: Mega) 
+De forma paralela, avanzamos con la construcción de una nueva base de datos propia, seleccionando denuncias del último año para cruzarla con su cobertura mediática o visibilidad en redes sociales. Esto nos permitirá entender qué tipo de denuncias logran más ruido en los medios, si hay medios que cubren más denuncias de ciertos canales o figuras, y si la visibilidad está asociada a la cantidad de denuncias recibidas. 
 
  
 
-- 27 de febrero 2025: Televidentes denuncian “Denigración, bullying, maltrato y hostigamiento a Emilia Dides, mediante burlas y ataques contra ella, comentarios despectivos y ofensivos, frases en los GC como: “Que ha hecho ella? Nada! ” o “ya viene el piscinaso de nuestra verdadera reina de viña” o “nos robaron La Corona”, Pamela Díaz se refiere a Emilia Dides como ladrona; incitación al odio, además de una campaña de desprestigio a través de redes sociales”. 
+## Síntesis  
 
- 
-
-> Programa: Hay que decirlo 
-
-> Canal: Canal 13  
-
-> 7166 denuncias – 7121 tramitadas  
-
- 
-
-- 28 de febrero 2025: Televidentes denuncian “desacreditación y hostigamiento a Emilia Dides. Pamela Díaz, Matías Vega, Ignacio Gutiérrez y Faloon Larraguibel, hicieron comentarios despectivos y burlas, poniendo en duda la legitimidad de su triunfo, fomentando un ambiente de odio y acoso mediático; señalan que “la verdadera reina de Viña” es Faloon Larraguibel, con insinuaciones de fraude en la votación, se minimiza el rol de Dides, comparándola con Larraguibel y ridiculizando su desempeño en el certamen”. 
-
- 
-
-> Programa: Hay que decirlo 
-
-> Canal: Canal 13 
-
-> 290 denuncias – 143 tramitadas 
-
-
-##  Datos Necesarios
-### Datos recopilados:
-- Cantidad total de denuncias al CNTV por mes.
-Total, de denuncias recibidas: 
-
-Febrero 2025: 6.253 (5.813 tramitadas) 
-
-Enero 2025: 868 (634 tramitadas) 
-
-Diciembre 2024: 362.  (194 tramitadas)  
-
-_Existen datos desde el 2011, pero nosotras ocuparemos desde el 2023_
-- Motivos de las denuncias y su contexto.
-- Canales y programas involucrados.
-
-### Datos aún por obtener:
-- Grupo etario de los denunciantes.
-- Temas que más preocupan a la audiencia.
-
-Para obtener estos datos, realizaremos encuestas que permitan un análisis etario.
-
-##  Historia Visual
-Desde el regreso de la farándula a la TV chilena hace tres años aproximádamente, no se han hecho estudios sobre su impacto en la audiencia. Creemos que esto se refleja en el aumento de denuncias dirigidas a este tipo de programas.
-  
-
-### Elementos digitales necesarios:
-
-Al tener una variedad diversa de datos, los gráficos ayudarán a que la lectura de estos sea más simple, rápida y efectiva. Como estos refieren a momentos específicos de la televisión, sería bueno complementarlo con extractos de los videos. 
-- **Gráficos** para visualizar tendencias.
-- **Videos** para contextualizar momentos específicos de la televisión.
-- **Imágenes** que complementen el análisis.
-
-Ejemplos de modelos visuales que nos interesan:
-- [Análisis de canciones románticas](https://pudding.cool/2024/11/love-songs/)
-- [Segmentación de compositores de canciones](https://pudding.cool/2023/07/songwriters/)
-
-##  Resultados Esperados
-**Máximo alcance**: La mayoría de las denuncias en el CNTV en los últimos tres años provienen de personas entre 50-70 años y están dirigidas hacia figuras públicas queridas o respetadas.
-
-**Mínimo alcanzable**: Identificar qué tipo de contenido es más denunciado en el CNTV.
-
-## 📊 Base de Datos Inicial
-
-### Autor y Publicación de los Datos
-Los datos utilizados en este proyecto provienen del **Consejo Nacional de Televisión (CNTV)**, y están disponibles públicamente en la página web del CNTV en la sección de [Historial de Sanciones](https://cntv.cl/historial/).
-
-### Contenido
-La página contiene información acerca de la cantidad de denuncias realizadas al CNTV desde 2011 hasta el mes de febrero del año actual. Cada mes se detalla:
-- La cantidad total de denuncias recibidas.
-- La cantidad de denuncias que fueron tramitadas por el CNTV.
-- El motivo de las denuncias.
-- El canal y programa involucrado.
-
-### Tipo de Datos
-La base de datos contiene datos tanto cuantitativos como cualitativos:
-- **Cuantitativos**: Número de denuncias recibidas.
-- **Cualitativos**: Descripción del motivo de las denuncias, los canales y programas involucrados.
-
-Los datos se recogen mes a mes y están disponibles desde 2011.
-
-### Pertinencia
-Esta base de datos es fundamental para nuestra investigación, ya que nos permite:
-- Revisar cuáles son los contenidos más frecuentemente sancionados.
-- Analizar qué canales y programas son los más denunciados.
-- Identificar patrones en los tipos de denuncias y su frecuencia.
-  
-La información obtenida será útil para ilustrar casos específicos de sanciones y analizar el impacto de ciertos contenidos en la audiencia chilena.
-
-### Metodología
-La recolección de los datos se realiza de la siguiente manera:
-1. Los datos serán extraídos manualmente de la página web del CNTV.
-2. La información recopilada se organizará en un archivo de Excel, lo que permitirá sistematizar las respuestas y sanciones.
-3. En caso de que la extracción manual resulte muy lenta, evaluaremos la posibilidad de realizar una extracción automática de datos de la página web, siempre que sea legalmente permitido.
-
-
-    
-
-
-
-
- 
+Nuestro proyecto analiza el fenómeno de las denuncias ciudadanas ante el CNTV en Chile, centrándose en el contenido televisivo de los últimos nueve años (2013-2022). Buscamos entender quiénes denuncian, qué temas generan más rechazo y qué programas o figuras públicas concentran más críticas. Nuestra hipótesis apunta a que las personas entre 50 y 70 años lideran las denuncias, especialmente cuando perciben que los valores tradicionales se ven amenazados o se ataca a figuras públicas queridas. A través de la recopilación de datos del CNTV, el cruce con artículos y publicaciones en redes sociales, y la realización de encuestas, esperamos construir un panorama integral de los patrones de denuncia y su impacto en la opinión pública. 
