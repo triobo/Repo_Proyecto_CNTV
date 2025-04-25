@@ -1,4 +1,5 @@
 1. Proceso de Limpieza de Datos
+
 Paso 1: Recolección de los datos
 Los datos los saqué de los informes anuales oficiales del Consejo Nacional de Televisión (CNTV) de Chile para los años 2017 a 2022. Estos informes se encuentran disponibles en formato PDF, en la página del consejo y contienen estadísticas clave sobre denuncias ciudadanas por contenidos emitidos en canales de televisión abierta y, en menor medida, en TV paga.
 
@@ -9,9 +10,13 @@ Paso 3: Estandarización de los datos
 
 Con ayuda de Chat gpt, los datos de cada informe fueron transcritos a una hoja de cálculo en bruto y luego armonizados en un DataFrame de Pandas utilizando Python. Esto permitió asegurar la coherencia de las variables en el tiempo, especialmente considerando que algunos informes no utilizan la misma nomenclatura.
 Se tomaron las siguientes decisiones de limpieza:
+
 •	Los valores porcentuales para grupos etarios fueron redondeados a un decimal para homogeneidad.
+
 •	Algunos valores fueron estimados visualmente desde gráficos debido a que los informes no siempre incluían tablas con los datos exactos.
+
 •	Las temáticas predominantes fueron categorizadas de forma interpretativa a partir de las secciones de "principales hallazgos" y "discusión" de los informes.
+
 •	En los casos en que varios programas o canales destacaban, se seleccionó aquel mencionado más veces o el que tenía un impacto cuantitativo mayor.
 
 Paso 4: Codificación y estructuración
