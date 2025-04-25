@@ -25,4 +25,4 @@ A través de la creación de tablas dinámicas (pivot tables) u otras formas de 
 3. **¿Qué tipo de sanción o motivo es el más común en el periodo analizado?**  
    → Ayuda a conocer qué contenidos son más frecuentemente considerados inadecuados por el CNTV.
 
-E
+
