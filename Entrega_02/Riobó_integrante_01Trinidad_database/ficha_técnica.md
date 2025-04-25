@@ -8,7 +8,7 @@
 ## Metodología de construcción de la base  
 - Se realizó una recopilación manual y curaduría de temas recurrentes denunciados en los informes anuales.  
 - Los datos fueron agrupados por año, grupo etario del denunciante, tema de denuncia, canal involucrado, programa específico y resultado del proceso.  
-- La estructura fue organizada en formato tabular usando **Pandas (Python)** y exportada a formato **CSV**.
+
 
 ## Alcance de los datos  
 - **Período comprendido**: 2021 - 2023  
