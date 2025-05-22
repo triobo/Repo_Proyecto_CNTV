@@ -1,5 +1,5 @@
 ## Hipótesis actual
-La mayor cantidad de denuncias en el Consejo Nacional de Televisión se concentra en ciertos temas sensibles para la ciudadanía, como la dignidad e intimidad personal, el contenido sexual o lenguaje vulgar, la desinformación y manipulación informativa, y la protección de la niñez en horario de alta audiencia.
+La mayor cantidad de denuncias en el Consejo Nacional de Televisión cuando la programación contiene temas sensibles para la ciudadanía y cuando esta percibe que atenta contra los valores tradicionales.
 
 ## Preguntas de investigación actuales
 - ¿Qué tipo de contenido genera más denuncias ante el CNTV?
