@@ -14,8 +14,8 @@ Más que un simple listado de multas, los datos del CNTV son un termómetro de c
 
 ---
 
-**Visualización**: [insertar imagen .jpg o embeber visualización interactiva si es web]
+![Visualización de datos](![Visualización de datos](visualizacion.jpg)
+)
+
 
 **Fuente de datos**: Consejo Nacional de Televisión (CNTV), Chile
-
-**Autor/a**: [Tu nombre]
