@@ -43,4 +43,3 @@ Este proyecto busca explorar las temáticas más sensibles para la ciudadanía e
 - ¿Qué tipo de contenido genera mayor sensibilidad ciudadana?
 
 La visualización permite observar patrones, comparar temáticas entre canales y construir hipótesis sobre la sensibilidad de la audiencia frente a ciertos valores, como la protección de la infancia o la veracidad informativa.
-
