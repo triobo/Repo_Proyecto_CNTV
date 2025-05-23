@@ -20,3 +20,4 @@ Aunque cada caso es distinto, el análisis permite sostener que las denuncias no
 
 La visualización también permite preguntarse si existe relación entre la cantidad de denuncias y las sanciones aplicadas por el CNTV, tema que se desarrollará con mayor profundidad en futuras capas del proyecto. Por ahora, este trabajo ofrece una mirada general sobre cómo la televisión chilena sigue generando reacciones ciudadanas, y cómo esas reacciones responden a preocupaciones temáticas persistentes.
 
+
