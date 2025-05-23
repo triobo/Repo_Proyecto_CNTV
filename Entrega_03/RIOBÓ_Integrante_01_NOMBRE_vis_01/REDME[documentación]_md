@@ -3,3 +3,50 @@
 - Base de datos (csv) que utilizaron, cómo la procesaron hasta dejarla lista para usar en la visualización que quieren hacer y por qué la seleccionaron.
 - Ejemplos sobre preguntas que puede responder su visualización de datos final (o el conjunto de visualizaciones que crearon)
 
+
+
+## Visualización de denuncias al CNTV por temáticas y canales (2012–2022)
+
+Mediante este trabajo, buscamos explorar las temáticas más sensibles para la ciudadanía en torno a los contenidos televisivos, a través del análisis de las denuncias presentadas ante el Consejo Nacional de Televisión (CNTV) entre 2012 y 2022. Para ello, se realizó una visualización que cruza las temáticas más recurrentes en las denuncias con los canales donde éstas se concentran.
+
+---
+
+## Proceso de trabajo y decisiones tomadas
+
+1. Cargamos la base de datos “RANKING DE DENUNCIAS 2012-2022_FINAL1.xlsx” en Google Colab.
+2. Seleccionamos la hoja correspondiente al ranking de denuncias individuales por programa.
+3. Estandarizamos nombres de columnas relevantes, como “Contenidos Denunciados” y “CANAL / CABLE ESTANDARIZADO”.
+4. Creamos una nueva columna temática que agrupa las denuncias según palabras clave en las descripciones. Para poder establecer estos criterios, pasamos la base de datos por una IA (NOTEBOOK) a la cual le pedimos que identificara las palabras que más se repetían en las temáticas denunciadas para poder clasificarlas. Las cinco categorías definidas fueron:
+   - Violencia, Agresión y Conductas Inapropiadas
+   - Dignidad / Intimidad / Vida Privada
+   - Contenido Sexual / Lenguaje Vulgar
+   - Desinformación / Sesgo / Falta de Pluralismo / Manipulación
+   - Niñez / Horario de Protección
+5. Agrupamos los datos por canal y temática y generamos una visualización clara y comparativa de estos datos en forma de gráfico de barras agrupadas.
+
+---
+
+## Base de datos utilizada
+
+- Nombre del archivo: RANKING DE DENUNCIAS 2012-2022_FINAL1.xlsx
+- Fuente: Consejo Nacional de Televisión (CNTV)
+- Formato final procesado: CSV
+- Esta base de datos la realizamos de manera manual, juntando los datos existentes en la sección de rankings de denuncias en la página oficial del CNTV. 
+- Esta base de datos se dividía en las siguientes columnas
+    - CANAL / CABLE 
+    - Programa
+    - N° Denuncias
+    - Contenidos Denunciados
+    - Mes de la denuncia
+    _ Año de la denuncia
+
+---
+
+## Ejemplos de preguntas que responde la visualización
+
+- ¿Cuáles son los temas que más denuncias generan entre los televidentes?
+- ¿Qué canales concentran más denuncias en temas como desinformación o contenido sexual?
+- ¿Existe una relación entre el tipo de canal y las temáticas que más se denuncian?
+- ¿Qué tipo de contenido genera mayor sensibilidad ciudadana?
+
+La visualización permite observar patrones, comparar temáticas entre canales y construir hipótesis sobre la sensibilidad de la audiencia frente a ciertos valores, como la protección de la infancia o la veracidad informativa.
