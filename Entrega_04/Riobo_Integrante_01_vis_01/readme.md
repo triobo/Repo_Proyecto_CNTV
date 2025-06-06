@@ -2,7 +2,7 @@
 
 ## 1. Descripción de la lectura visual 
 
-La pieza visual presenta un diseño claro y atractivo que guía al espectador en la comprensión de la información sobre las denuncias al CNTV relacionadas con temas que atentan contra valores tradicionales. En el centro destaca una visualización principal (g´rafico de barras) — que resume la distribución de denuncias según variables clave  (canal y temática). 
+La pieza visual presenta un diseño claro y atractivo que guía al espectador en la comprensión de la información sobre las denuncias al CNTV relacionadas con temas que atentan contra valores tradicionales. En el centro destaca una visualización principal (gráfico de barras) que resume la distribución de denuncias según variables clave  (canal y temática). 
 
 La paleta de colores utilizada resalta las diferencias entre categorías, facilitando la comparación inmediata. Los textos que acompañan la visualización están organizados de forma jerárquica, con títulos y subtítulos que orientan el recorrido visual, mientras que los iconos o símbolos refuerzan el contenido sin saturar el espacio. 
 
