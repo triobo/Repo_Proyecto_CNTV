@@ -4,7 +4,7 @@
 **Vigilantes de la pantalla: como la audiencia fiscaliza a la televisión chilena**
 ---
 
-## 📝 Resumen del reportaje
+## Resumen del reportaje
 Esta webstory analiza una década (2012-2022) de denuncias ciudadanas realizadas al Consejo Nacional de Televisión (CNTV) en Chile. A partir de visualizaciones, casos clave y análisis narrativo, se revela cómo la audiencia ha pasado de ser una espectadora pasiva a un agente fiscalizador activo, denunciando contenidos que considera inapropiados, ofensivos o peligrosos. A través de datos y ejemplos concretos, se evidencia qué temas incomodan más, cómo han cambiado las sensibilidades colectivas y qué tan efectiva ha sido la respuesta institucional en forma de sanciones.
 
 ---
