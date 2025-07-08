@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-036de04d8a9501907e7390732a3ccb68"}, "mark": {"type": "circle", "size": 80}, "encoding": {"color": {"field": "Programa", "legend": null, "type": "nominal"}, "tooltip": [{"field": "Programa", "type": "nominal"}, {"field": "Denuncias", "type": "quantitative"}, {"field": "Sanci\u00f3n", "type": "quantitative"}], "x": {"field": "Denuncias", "title": "Cantidad de denuncias", "type": "quantitative"}, "y": {"field": "Sanci\u00f3n", "title": "Cantidad de sanciones", "type": "quantitative"}}, "height": 400, "title": "Relaci\u00f3n entre denuncias y sanciones por programa", "width": 700, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-036de04d8a9501907e7390732a3ccb68": [{"Programa": "24 Horas Central", "Denuncias": 3123.0, "Sanci\u00f3n": 3}, {"Programa": "24 Horas Medianoche", "Denuncias": 225.0, "Sanci\u00f3n": 1}, {"Programa": "Ahora Noticias", "Denuncias": 114.0, "Sanci\u00f3n": 0}, {"Programa": "Ahora Noticias Central", "Denuncias": 112.0, "Sanci\u00f3n": 2}, {"Programa": "Ahora Noticias, edici\u00f3n tarde", "Denuncias": 1155.0, "Sanci\u00f3n": 0}, {"Programa": "Amor a Prueba", "Denuncias": 116.0, "Sanci\u00f3n": 9}, {"Programa": "Bailando por un sue\u00f1o</span", "Denuncias": 950.0, "Sanci\u00f3n": 4}, {"Programa": "Bienvenidos", "Denuncias": 4984.0, "Sanci\u00f3n": 32}, {"Programa": "Buenos D\u00edas a Todos", "Denuncias": 271.0, "Sanci\u00f3n": 5}, {"Programa": "Chilevisi\u00f3n Noticias Central", "Denuncias": 414.0, "Sanci\u00f3n": 1}, {"Programa": "Contigo en Directo", "Denuncias": 395.0, "Sanci\u00f3n": 3}, {"Programa": "Contigo en la Ma\u00f1ana", "Denuncias": 192.0, "Sanci\u00f3n": 6}, {"Programa": "Debate Presidencial", "Denuncias": 180.0, "Sanci\u00f3n": 4}, {"Programa": "Doble Tentaci\u00f3n", "Denuncias": 202.0, "Sanci\u00f3n": 6}, {"Programa": "Festival de Vi\u00f1a", "Denuncias": 274.0, "Sanci\u00f3n": 6}, {"Programa": "Franja Electoral", "Denuncias": 1343.0, "Sanci\u00f3n": 0}, {"Programa": "Hazme Reir", "Denuncias": 225.0, "Sanci\u00f3n": 0}, {"Programa": "Hola Chile", "Denuncias": 332.0, "Sanci\u00f3n": 3}, {"Programa": "Informe Especial", "Denuncias": 202.0, "Sanci\u00f3n": 5}, {"Programa": "Killer Karaoke", "Denuncias": 265.0, "Sanci\u00f3n": 0}, {"Programa": "La Divina Comida", "Denuncias": 218.0, "Sanci\u00f3n": 2}, {"Programa": "La Ma\u00f1ana del CHV", "Denuncias": 382.0, "Sanci\u00f3n": 2}, {"Programa": "Las Gansas", "Denuncias": 685.0, "Sanci\u00f3n": 1}, {"Programa": "MUCHO GUSTO", "Denuncias": 562.0, "Sanci\u00f3n": 1}, {"Programa": "Ma\u00f1aneros", "Denuncias": 126.0, "Sanci\u00f3n": 1}, {"Programa": "Meganoticias", "Denuncias": 1100.0, "Sanci\u00f3n": 3}, {"Programa": "Meganoticias Prime", "Denuncias": 601.0, "Sanci\u00f3n": 2}, {"Programa": "Mentiras Verdaderas", "Denuncias": 644.0, "Sanci\u00f3n": 12}, {"Programa": "Mi Barrio", "Denuncias": 1839.0, "Sanci\u00f3n": 0}, {"Programa": "Morand\u00e9 con Compa\u00f1\u00eda", "Denuncias": 221.0, "Sanci\u00f3n": 0}, {"Programa": "Mucho Gusto", "Denuncias": 3322.0, "Sanci\u00f3n": 7}, {"Programa": "Mucho Gusto</span", "Denuncias": 1120.0, "Sanci\u00f3n": 0}, {"Programa": "Muy Buenos D\u00edas", "Denuncias": 606.0, "Sanci\u00f3n": 6}, {"Programa": "No Abras la Puerta", "Denuncias": 332.0, "Sanci\u00f3n": 0}, {"Programa": "Pareja Perfecta", "Denuncias": 1320.0, "Sanci\u00f3n": 2}, {"Programa": "Pol\u00edticamente Incorrecto", "Denuncias": 326.0, "Sanci\u00f3n": 0}, {"Programa": "Primer Plano", "Denuncias": 409.0, "Sanci\u00f3n": 7}, {"Programa": "SQP", "Denuncias": 290.0, "Sanci\u00f3n": 2}, {"Programa": "Spot Lim\u00f3n Soda", "Denuncias": 258.0, "Sanci\u00f3n": 0}, {"Programa": "Tele13 Central", "Denuncias": 723.0, "Sanci\u00f3n": 3}, {"Programa": "Tele13 Tarde", "Denuncias": 578.0, "Sanci\u00f3n": 1}, {"Programa": "Teletrece", "Denuncias": 433.0, "Sanci\u00f3n": 1}, {"Programa": "Teletrece Central", "Denuncias": 4585.0, "Sanci\u00f3n": 2}, {"Programa": "Teletrece Central</span", "Denuncias": 327.0, "Sanci\u00f3n": 1}, {"Programa": "Teletrece am", "Denuncias": 1622.0, "Sanci\u00f3n": 1}, {"Programa": "Teletrece, edici\u00f3n central", "Denuncias": 284.0, "Sanci\u00f3n": 1}, {"Programa": "Tolerancia Cero", "Denuncias": 759.0, "Sanci\u00f3n": 1}, {"Programa": "Tu D\u00eda", "Denuncias": 158.0, "Sanci\u00f3n": 3}, {"Programa": "Vamos Chilenos", "Denuncias": 141.0, "Sanci\u00f3n": 0}, {"Programa": "V\u00e9rtigo", "Denuncias": 687.0, "Sanci\u00f3n": 7}, {"Programa": "\u00bfVolver\u00edas con tu Ex?", "Denuncias": 216.0, "Sanci\u00f3n": 12}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
