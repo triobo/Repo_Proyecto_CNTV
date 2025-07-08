@@ -14,9 +14,9 @@ Sí, se evidenció que Chilevisión ha recibido más multas que otros canales, y
 
 ## Tabla de autoría
 
-| Elemento                  | Cecilia | Integrante 2 | Integrante 3 |
+| Elemento                  | Trinidad | Colomba | Cecilia |
 |---------------------------|---------|--------------|--------------|
-| Investigación / Redacción| ✅      | ✅            |              |
-| Visualizaciones de datos | ✅      |              | ✅            |
-| Programación web         |         | ✅            | ✅            |
+| Investigación / Redacción| ✅      | ✅            |        ✅      |
+| Visualizaciones de datos | ✅      |        ✅      | ✅            |
+| Programación web         |         | ✅            |           |
 | Documentación / README   | ✅      | ✅            | ✅            |
