@@ -123,11 +123,29 @@
   </style>
 </head>
 <body>
+  <style>
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .monito-img {
+      animation: fadeIn 1s ease-out;
+    }
+  </style>
+  
   <header style="background: linear-gradient(90deg, #D67E46 0%, #FC703C 100%); padding: 3rem 1.5rem; text-align: center; color: white;">
-    <h1 style="font-family: 'Sunborn', sans-serif; font-size: 3.2rem; margin: 0;">Vigilantes de la pantalla: como la audiencia fiscaliza a la televisión chilena </h1>
-    <p style="font-family: 'Playfair Display', serif; font-size: 1.2rem; margin-top: 0.5rem;"></p>
-    <img src="logo.cntv.png" alt="Logo CNTV" style="margin-top: 1rem; max-height: 200x; filter: drop-shadow(2px 2px 6px rgba(0,0,0,0.4));" />
+    <h1 style="font-family: 'Sunborn', sans-serif; font-size: 3.2rem; margin: 0;">Vigilantes de la pantalla</h1>
+    <p style="font-family: 'Playfair Display', serif; font-size: 1.2rem; margin-top: 0.5rem;">
+      Cómo la audiencia fiscaliza a la televisión chilena
+    </p>
+    <div style="display: flex; justify-content: center; align-items: center; gap: 1rem; flex-wrap: wrap; margin-top: 2rem;">
+      <img src="monito.cntv.1.png" alt="Ilustración 1" class="monito-img" style="max-height: 90px;" />
+      <img src="monito.cntv.2.png" alt="Ilustración 2" class="monito-img" style="max-height: 90px;" />
+      <img src="monito.cntv.3.png" alt="Ilustración 3" class="monito-img" style="max-height: 90px;" />
+      <img src="monito.cntv.4.png" alt="Ilustración 4" class="monito-img" style="max-height: 90px;" />
+    </div>
   </header>
+  
 
   <section>
     <p>Una década de denuncias ciudadanas revela qué incomoda a los televidentes y cómo la televisión sigue desfasada respecto a las nuevas sensibilidades sociales. ¿Qué molesta al público en televisión? ¿Quiénes reclaman y por qué?</p>
