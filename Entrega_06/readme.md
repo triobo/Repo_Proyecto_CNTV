@@ -18,5 +18,5 @@ Sí, se evidenció que Chilevisión ha recibido más multas que otros canales, y
 |---------------------------|---------|--------------|--------------|
 | Investigación / Redacción| ✅      | ✅            |        ✅      |
 | Visualizaciones de datos | ✅      |        ✅      | ✅            |
-| Programación web         |         | ✅            |           |
+| Programación web         |    ✅      |             |           |
 | Documentación / README   | ✅      | ✅            | ✅            |
