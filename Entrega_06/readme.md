@@ -32,7 +32,7 @@ Evidenciamos que las denuncias ciudadanas no son actos anecdóticos, sino una fo
 | Desarrollo de visualizaciones                 | ✅             | ✅             | ✅                 |
 | Diseño narrativo (estructura)                 | ✅             |                |                    |
 | Redacción de textos                           | ✅             | ✅             | ✅                 |
-| Programación HTML/CSS                         | ✅             | ✅             | ✅                 |
+| Programación HTML/CSS                         | ✅             |                 |                |
 | Documentación y README                        | ✅              | ✅             | ✅                 |
 | Diseño gráfico / ilustraciones                | ✅             |                |                    |
 | Análisis de hipótesis                         | ✅             | ✅             | ✅                 |
